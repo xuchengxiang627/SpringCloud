@@ -1,0 +1,27 @@
+GET http://localhost:8001/pay/gateway/info
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-19T153600.200.json
+
+###
+
+GET http://localhost:8001/pay/gateway/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-19T153530.200.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-10-08T001822.200.json
+
+###
+

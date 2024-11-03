@@ -1,0 +1,15 @@
+{
+  "code": "200",
+  "message": "success",
+  "data": {
+    "id": 1,
+    "payNo": "pay17203699",
+    "orderNo": "6544bafb424a",
+    "userId": 1,
+    "amount": 9.90,
+    "deleted": 0,
+    "createTime": "2024-10-06 17:36:27",
+    "updateTime": "2024-10-06 17:36:27"
+  },
+  "timestamp": 1729323330452
+}
